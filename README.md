@@ -6,6 +6,8 @@ Some dependencies are required to run the script:
 * httpx - a faster HTTP requests module
 * tksheet - small module that adds a table widget to tkinter
 * qbittorrent-api - QBittorent API wrapper
+The dependencies can be installed on Windows by running the `install.bat` file.
+
 Remember to **enable WebUI** in your QBittorrent settings, and if you are not using the default login credentials, change them in the `config.json` file.
 ## How to run
 Run the `py gui.pyw` command or just click on the gui.pyw file.
