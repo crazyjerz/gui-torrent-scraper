@@ -1,0 +1,18 @@
+{  
+    "gui": {
+        "debug": true 
+    },
+    "requester": {
+        "results_on_page": 8,
+        "category": "Movies",
+        "comment1": "Available categories: Movies, TV, Games, Music, Apps, Documentaries, Anime, Other, XXX. If you do not want to search by category, leave the category field empty."
+    },
+    "qbit_login": {
+        "ip": "localhost",
+        "port": 8080,
+        "username": "admin",
+        "password": "adminadmin",
+        "display_only_scraped_torrents": true,
+        "comment3": "Input qbittorrent WebUI data here. The provided values are default values set by qbittorrent. If you have changed them in the app, change the values in this config."
+    }
+}
